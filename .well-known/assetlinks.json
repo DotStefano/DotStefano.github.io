@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.dotstefano.nutrisafe",
+      "sha256_cert_fingerprints": [
+        "E0:51:A6:60:A9:C9:5D:4D:87:C8:25:76:EE:D8:DC:74:C1:BD:FC:27:06:05:F5:41:CF:FC:EC:9D:F1:48:56:BE"
+      ]
+    }
+  }
+]
